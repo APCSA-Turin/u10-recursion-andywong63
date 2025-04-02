@@ -1,4 +1,4 @@
-package u10t1;
+package u10t1.day1;
 
 public class Problem2 {
     public static void main(String [] args) {
