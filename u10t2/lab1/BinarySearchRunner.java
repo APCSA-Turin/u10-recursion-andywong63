@@ -1,4 +1,4 @@
-package u10t2;
+package u10t2.lab1;
 
 public class BinarySearchRunner {
     public static void main(String[] args) {
